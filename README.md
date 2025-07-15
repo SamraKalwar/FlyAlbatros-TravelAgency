@@ -27,6 +27,18 @@
 ---
 
 ## 📁 Project Structure
+FlyAlbatros-TravelAgency/
+├── index.html
+├── style.css
+├── script.js
+├── images/
+│   ├── home
+│   ├── about
+│   ├── services
+│   ├── destinations
+├── README.md
+├── LICENSE
+
 <img width="1366" height="768" alt="home" src="https://github.com/user-attachments/assets/c539cd78-5c2d-4fed-8fab-027ebf9ffd1c" />
 <img width="1366" height="768" alt="about" src="https://github.com/user-attachments/assets/04568321-a297-4433-9c57-56e81230f9df" />
 <img width="1366" height="768" alt="Services" src="https://github.com/user-attachments/assets/cfa5ad8b-a0c5-4f5b-ba84-a9a988e0c765" />
